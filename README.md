@@ -1,4 +1,4 @@
 # SoftwareEngeneringPOO-2021-1
 
-Estudo Independente 1 - Curso de Engenharia de Software
-Discipplina Programação Orientada a Objetos - 2021/1 - UNIVATES
+Independent Study 1 - Software Engineering
+ Object Oriented Programming class - 2021/1 - UNIVATES
